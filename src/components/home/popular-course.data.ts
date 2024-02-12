@@ -3,7 +3,7 @@ import type { Course } from '@/interfaces/course'
 export const data: Array<Course> = [
   {
     id: 1,
-    cover: './missdana/images/courses/a9e7b27a0c5e986a22416d79e2e9dba9.jpg',
+    cover: '.https://kazdevo.github.io/missdana/images/courses/a9e7b27a0c5e986a22416d79e2e9dba9.jpg',
     title: 'IELTS 3 ай дайындық',
     rating: 5,
     ratingCount: 8,
@@ -12,7 +12,7 @@ export const data: Array<Course> = [
   },
   {
     id: 2,
-    cover: './missdana/images/courses/alvaro-reyes-qWwpHwip31M-unsplash.jpg',
+    cover: '.https://kazdevo.github.io/missdana/images/courses/alvaro-reyes-qWwpHwip31M-unsplash.jpg',
     title: 'IELTS 3 ай дайындық',
     rating: 5,
     ratingCount: 15,
@@ -21,7 +21,7 @@ export const data: Array<Course> = [
   },
   {
     id: 3,
-    cover: './missdana/images/courses/christopher-gower-m_HRfLhgABo-unsplash.jpg',
+    cover: '.https://kazdevo.github.io/missdana/images/courses/christopher-gower-m_HRfLhgABo-unsplash.jpg',
     title: 'IELTS 3 ай дайындық',
     rating: 4,
     ratingCount: 7,
@@ -30,7 +30,7 @@ export const data: Array<Course> = [
   },
   {
     id: 4,
-    cover: './missdana/images/courses/true-agency-o4UhdLv5jbQ-unsplash.jpg',
+    cover: '.https://kazdevo.github.io/missdana/images/courses/true-agency-o4UhdLv5jbQ-unsplash.jpg',
     title: 'IELTS 3 ай дайындық',
     rating: 4,
     ratingCount: 12,
@@ -39,7 +39,7 @@ export const data: Array<Course> = [
   },
   {
     id: 5,
-    cover: './missdana/images/courses/stillness-inmotion-Jh6aQX-25Uo-unsplash.jpg',
+    cover: '.https://kazdevo.github.io/missdana/images/courses/stillness-inmotion-Jh6aQX-25Uo-unsplash.jpg',
     title: 'IELTS 3 ай дайындық',
     rating: 4,
     ratingCount: 32,
@@ -48,7 +48,7 @@ export const data: Array<Course> = [
   },
   {
     id: 6,
-    cover: './missdana/images/courses/stillness-inmotion-YSCCnRGrD-4-unsplash.jpg',
+    cover: '.https://kazdevo.github.io/missdana/images/courses/stillness-inmotion-YSCCnRGrD-4-unsplash.jpg',
     title: 'IELTS 3 ай дайындық',
     rating: 5,
     ratingCount: 14,
@@ -57,7 +57,7 @@ export const data: Array<Course> = [
   },
   {
     id: 7,
-    cover: './missdana/images/courses/grovemade-RvPDe41lYBA-unsplash.jpg',
+    cover: '.https://kazdevo.github.io/missdana/images/courses/grovemade-RvPDe41lYBA-unsplash.jpg',
     title: 'IELTS 3 ай дайындық',
     rating: 4,
     ratingCount: 6,

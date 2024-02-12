@@ -42,7 +42,13 @@ const HomeFeature: FC = () => {
         <Grid container spacing={3}>
           <Grid item xs={12} md={5}>
             <Box sx={{ position: 'relative' }}>
-              <Image src="./missdana/images/home-feature.png" width={650} height={678} quality={97} alt="Feature img" />
+              <Image
+                src=".https://kazdevo.github.io/missdana/images/home-feature.png"
+                width={650}
+                height={678}
+                quality={97}
+                alt="Feature img"
+              />
               <Box
                 sx={{
                   position: 'absolute',
@@ -180,7 +186,7 @@ const HomeFeature: FC = () => {
                   }}
                 >
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src="./missdana/images/headline-curve.svg" alt="Headline curve" />
+                  <img src=".https://kazdevo.github.io/missdana/images/headline-curve.svg" alt="Headline curve" />
                 </Box>
               </Typography>
               өткіз
