@@ -187,7 +187,7 @@ const HomeHero: FC = () => {
                   '& img': { width: '32px !important', height: 'auto' },
                 }}
               >
-                <Image
+                <img
                   src="https://kazdevo.github.io/missdana/images/certificate.png"
                   alt="Certificate icon"
                   width={50}
@@ -208,7 +208,7 @@ const HomeHero: FC = () => {
               </Box>
             </Box>
             <Box sx={{ lineHeight: 0 }}>
-              <Image
+              <img
                 src="https://kazdevo.github.io/missdana/images/home-hero.jpg"
                 width={775}
                 height={787}

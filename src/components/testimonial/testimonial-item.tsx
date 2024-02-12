@@ -43,7 +43,7 @@ const TestimonialItem: FC<Props> = ({ item }) => {
             },
           }}
         >
-          <Image
+          <img
             src={`https://kazdevo.github.io/missdana/images/avatars/${item.user.photo}`}
             width={100}
             height={100}
