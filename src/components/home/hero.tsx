@@ -192,7 +192,6 @@ const HomeHero: FC = () => {
                   alt="Certificate icon"
                   width={50}
                   height={50}
-
                 />
               </Box>
               <Box>
@@ -208,11 +207,12 @@ const HomeHero: FC = () => {
               </Box>
             </Box>
             <Box sx={{ lineHeight: 0 }}>
-              <img
+              <Image
                 src="https://kazdevo.github.io/missdana/images/home-hero.jpg"
                 width={775}
                 height={787}
                 alt="Hero img"
+                quality={95}
               />
             </Box>
           </Grid>
