@@ -115,7 +115,13 @@ const HomeTestimonial: FC = () => {
           </Grid>
           <Grid item xs={12} md={6} sx={{ display: { xs: 'none', md: 'block' } }}>
             <Box sx={{ width: { xs: '100%', md: '90%' } }}>
-              <Image src="/missdana/images/home-testimonial.png" width={520} height={540} alt="Testimonial img" />
+              <Image
+                src="/missdana/images/home-testimonial.png"
+                width={520}
+                height={540}
+                alt="Testimonial img"
+                unoptimized={true}
+              />
             </Box>
           </Grid>
         </Grid>
