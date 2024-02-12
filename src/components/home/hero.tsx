@@ -19,15 +19,15 @@ interface ExpItemProps {
 const exps: Array<Exp> = [
   {
     label: 'Оқушы',
-    value: '10K+',
+    value: '+200',
   },
   {
     label: 'Сапалы курстар',
-    value: '20+',
+    value: '+20',
   },
   {
     label: 'Тәжірибелі куратор',
-    value: '10+',
+    value: '+10',
   },
 ]
 
@@ -94,7 +94,7 @@ const HomeHero: FC = () => {
                       }}
                     >
                       {/* eslint-disable-next-line */}
-                      <img src="https://kazdevo.github.io/missdana/images/headline-curve.svg" alt="Headline curve" />
+                      <img src="/images/headline-curve.svg" alt="Headline curve" />
                     </Box>
                   </Typography>
                   тестіне{' '}
@@ -187,12 +187,7 @@ const HomeHero: FC = () => {
                   '& img': { width: '32px !important', height: 'auto' },
                 }}
               >
-                <img
-                  src="https://kazdevo.github.io/missdana/images/certificate.png"
-                  alt="Certificate icon"
-                  width={50}
-                  height={50}
-                />
+                <img src="/images/certificate.png" alt="Certificate icon" width={50} height={50} />
               </Box>
               <Box>
                 <Typography
@@ -207,13 +202,7 @@ const HomeHero: FC = () => {
               </Box>
             </Box>
             <Box sx={{ lineHeight: 0 }}>
-              <Image
-                src="https://kazdevo.github.io/missdana/images/home-hero.jpg"
-                width={775}
-                height={787}
-                alt="Hero img"
-                quality={95}
-              />
+              <Image src="/images/home-hero.jpg" width={775} height={787} alt="Hero img" quality={95} />
             </Box>
           </Grid>
         </Grid>
