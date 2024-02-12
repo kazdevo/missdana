@@ -119,7 +119,6 @@ const HomeTestimonial: FC = () => {
                 src="https://kazdevo.github.io/missdana/images/home-testimonial.png"
                 width={520}
                 height={540}
-                quality={97}
                 alt="Testimonial img"
               />
             </Box>

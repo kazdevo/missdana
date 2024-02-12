@@ -192,7 +192,7 @@ const HomeHero: FC = () => {
                   alt="Certificate icon"
                   width={50}
                   height={50}
-                  quality={97}
+
                 />
               </Box>
               <Box>

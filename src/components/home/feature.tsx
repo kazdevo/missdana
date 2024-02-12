@@ -46,7 +46,6 @@ const HomeFeature: FC = () => {
                 src="https://kazdevo.github.io/missdana/images/home-feature.png"
                 width={650}
                 height={678}
-                quality={97}
                 alt="Feature img"
               />
               <Box
