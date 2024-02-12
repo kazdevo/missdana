@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  basePath: 'https://kazdevo.github.io/missdana',
+  basePath: '/missdana',
+  disableStaticImages: true,
 }
 
 module.exports = nextConfig
