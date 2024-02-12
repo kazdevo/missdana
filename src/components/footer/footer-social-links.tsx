@@ -7,27 +7,27 @@ export const socialLinks: SocialLink[] = [
   {
     name: 'Instagram',
     link: 'https://www.instagram.com/miss_bakhytova/',
-    icon: '/images/icons/instagram.svg',
+    icon: './images/icons/instagram.svg',
   },
   {
     name: 'YouTube',
     link: 'https://www.instagram.com/miss_bakhytova/',
-    icon: '/images/icons/youtube.svg',
+    icon: './images/icons/youtube.svg',
   },
   {
     name: 'Twitter',
     link: 'https://www.instagram.com/miss_bakhytova/',
-    icon: '/images/icons/twitter.svg',
+    icon: './images/icons/twitter.svg',
   },
   {
     name: 'Dribbble',
     link: 'https://dribbble.com/shots/18114471-Coursespace-Online-Course-Landing-Paghttps://www.instagram.com/miss_bakhytova/',
-    icon: '/images/icons/dribbble.svg',
+    icon: './images/icons/dribbble.svg',
   },
   {
     name: 'Github',
     link: 'https://github.com/hiriski/coursespace-landing-paghttps://www.instagram.com/miss_bakhytova/',
-    icon: '/images/icons/github.svg',
+    icon: './images/icons/github.svg',
   },
 ]
 
