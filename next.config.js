@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   basePath: '/missdana',
-  disableStaticImages: true,
+  images: { disableStaticImages: true },
 }
 
 module.exports = nextConfig
