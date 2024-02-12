@@ -94,7 +94,7 @@ const HomeHero: FC = () => {
                       }}
                     >
                       {/* eslint-disable-next-line */}
-                      <img src=".https://kazdevo.github.io/missdana/images/headline-curve.svg" alt="Headline curve" />
+                      <img src="https://kazdevo.github.io/missdana/images/headline-curve.svg" alt="Headline curve" />
                     </Box>
                   </Typography>
                   тестіне{' '}
@@ -188,7 +188,7 @@ const HomeHero: FC = () => {
                 }}
               >
                 <Image
-                  src=".https://kazdevo.github.io/missdana/images/certificate.png"
+                  src="https://kazdevo.github.io/missdana/images/certificate.png"
                   alt="Certificate icon"
                   width={50}
                   height={50}
@@ -209,7 +209,7 @@ const HomeHero: FC = () => {
             </Box>
             <Box sx={{ lineHeight: 0 }}>
               <Image
-                src=".https://kazdevo.github.io/missdana/images/home-hero.jpg"
+                src="https://kazdevo.github.io/missdana/images/home-hero.jpg"
                 width={775}
                 height={787}
                 alt="Hero img"

@@ -99,7 +99,7 @@ const HomeTestimonial: FC = () => {
                   }}
                 >
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src=".https://kazdevo.github.io/missdana/images/headline-curve.svg" alt="Headline curve" />
+                  <img src="https://kazdevo.github.io/missdana/images/headline-curve.svg" alt="Headline curve" />
                 </Box>
               </Typography>
               алғысы
@@ -116,7 +116,7 @@ const HomeTestimonial: FC = () => {
           <Grid item xs={12} md={6} sx={{ display: { xs: 'none', md: 'block' } }}>
             <Box sx={{ width: { xs: '100%', md: '90%' } }}>
               <Image
-                src=".https://kazdevo.github.io/missdana/images/home-testimonial.png"
+                src="https://kazdevo.github.io/missdana/images/home-testimonial.png"
                 width={520}
                 height={540}
                 quality={97}
