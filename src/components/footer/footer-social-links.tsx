@@ -6,27 +6,27 @@ import { SocialLink } from '@/interfaces/social-link'
 export const socialLinks: SocialLink[] = [
   {
     name: 'Instagram',
-    link: '#',
+    link: 'https://www.instagram.com/miss_bakhytova/',
     icon: '/images/icons/instagram.svg',
   },
   {
     name: 'YouTube',
-    link: '#',
+    link: 'https://www.instagram.com/miss_bakhytova/',
     icon: '/images/icons/youtube.svg',
   },
   {
     name: 'Twitter',
-    link: '#',
+    link: 'https://www.instagram.com/miss_bakhytova/',
     icon: '/images/icons/twitter.svg',
   },
   {
     name: 'Dribbble',
-    link: 'https://dribbble.com/shots/18114471-Coursespace-Online-Course-Landing-Page',
+    link: 'https://dribbble.com/shots/18114471-Coursespace-Online-Course-Landing-Paghttps://www.instagram.com/miss_bakhytova/',
     icon: '/images/icons/dribbble.svg',
   },
   {
     name: 'Github',
-    link: 'https://github.com/hiriski/coursespace-landing-page',
+    link: 'https://github.com/hiriski/coursespace-landing-paghttps://www.instagram.com/miss_bakhytova/',
     icon: '/images/icons/github.svg',
   },
 ]

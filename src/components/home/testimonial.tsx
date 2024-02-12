@@ -78,7 +78,7 @@ const HomeTestimonial: FC = () => {
                 fontWeight: 'bold',
               }}
             >
-              Testimonial What our{' '}
+              Біз жайлы{' '}
               <Typography
                 component="mark"
                 sx={{
@@ -89,7 +89,7 @@ const HomeTestimonial: FC = () => {
                   backgroundColor: 'unset',
                 }}
               >
-                Students{' '}
+                Оқушылар{' '}
                 <Box
                   sx={{
                     position: 'absolute',
@@ -102,7 +102,7 @@ const HomeTestimonial: FC = () => {
                   <img src="/images/headline-curve.svg" alt="Headline curve" />
                 </Box>
               </Typography>
-              Say
+              алғысы
             </Typography>
 
             <StyledSlickContainer>

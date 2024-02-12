@@ -12,22 +12,22 @@ interface Data {
 
 export const data: Data[] = [
   {
-    title: 'Easy Accessable',
+    title: 'Оңай Қол Жетімді',
     description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
     icon: <ArtTrackIcon />,
   },
   {
-    title: 'More Affordable Cost',
+    title: 'Қолжетімді баға',
     description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
     icon: <AttachMoneyIcon />,
   },
   {
-    title: 'Flexible Study Time',
+    title: 'Икемді Оқу Уақыты',
     description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
     icon: <LocalLibraryIcon />,
   },
   {
-    title: 'Consultation With Mentor',
+    title: 'Тәлімгермен Кеңесу',
     description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
     icon: <ContactSupportIcon />,
   },

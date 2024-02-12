@@ -46,9 +46,10 @@ const CourseCardItem: FC<Props> = ({ item }) => {
           <Image src={item.cover} width={760} height={760} alt={'Course ' + item.id} />
         </Box>
         <Box sx={{ mb: 2 }}>
-          <Typography component="h2" variant="h5" sx={{ mb: 2, height: 56, overflow: 'hidden', fontSize: '1.2rem' }}>
+          <Typography component="h2" variant="h5" sx={{ mb: 0, height: 56, overflow: 'hidden', fontSize: '1.2rem' }}>
             {item.title}
           </Typography>
+          <Typography variant="h6">{item.category}</Typography>
           <Box sx={{ display: 'flex', alignItems: 'center' }}>
             <Rating name="rating-course" value={item.rating} max={5} sx={{ color: '#ffce31', mr: 1 }} readOnly />
             <Typography component="span" variant="h5">
@@ -67,7 +68,7 @@ const CourseCardItem: FC<Props> = ({ item }) => {
             color="primary"
             sx={{ '&:hover': { backgroundColor: 'primary.main', color: 'primary.contrastText' } }}
           >
-            <ArrowForward />
+            {/* <ArrowForward /> */}
           </IconButton>
         </Box>
       </Box>

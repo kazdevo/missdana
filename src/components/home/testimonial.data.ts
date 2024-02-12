@@ -3,61 +3,61 @@ import type { Testimonial } from '@/interfaces/testimonial'
 export const data: Array<Testimonial> = [
   {
     id: 1,
-    title: 'Detailed learning materials',
+    title: 'Толық оқу материалдары',
     content:
-      'Classes that provide very detailed material in term of making UI UX Design starting team making low and hight quality, system designs, using data layout and make prototypes and testing.',
+      'Миссдананың IELTS-ке дайындық курсы менің күткенімнен асып түсті! Жекелендірілген зейін мен жан-жақты материалдар маған күткеннен әлдеқайда жоғары балл жинауға көмектесті.',
     user: {
       id: 1,
       name: 'Luis Sera',
-      professional: 'UI/UX Engineer',
+      professional: 'IELTS 7.5',
       photo: '1.jpg',
     },
   },
   {
     id: 2,
-    title: 'Best Quality Online Course!',
+    title: 'Үздік Сапалы Онлайн Курс!',
     content:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+      'Мен Миссдананың IELTS курсын міндетті түрде ұсына алмаймын! Нұсқаушылар керемет білімді және қолдау көрсетеді, сенімділікті арттыратын және табысқа жетуді қамтамасыз ететін оң оқу ортасын жасайды.',
     user: {
       id: 1,
       name: 'Riski',
-      professional: 'Software Engineer',
+      professional: 'IELTS 7.5',
       photo: '2.jpg',
     },
   },
   {
     id: 3,
-    title: 'Very complete class',
+    title: 'Өте терең түсіндіру',
     content:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+      'Миссдананың IELTS-ке дайындық курсының арқасында мен мақсатты баллымды рекордтық мерзімде жинай алдым! Құрылымдық оқу жоспары мен сарапшылардың ұсыныстары менің үлгерімімді түбегейлі өзгертті.',
     user: {
       id: 1,
       name: 'Nguyễn Văn',
-      professional: 'FullStack Designer',
+      professional: 'IELTS 7.5',
       photo: '3.jpg',
     },
   },
   {
     id: 4,
-    title: 'Great Quality!',
+    title: 'Өте сапалы!',
     content:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+      'Миссданадағы IELTS курсына жазылу мен қабылдаған ең жақсы шешімдердің бірі болды! Нұсқаушылар бөліскен стратегиялар мен кеңестер баға жетпес болды, бұл менің ағылшын тілін меңгеруімнің айтарлықтай жақсаруына әкелді.',
     user: {
       id: 1,
       name: 'Diana Jordan',
-      professional: 'SEO Expert',
+      professional: 'IELTS 7.5',
       photo: '4.jpg',
     },
   },
   {
     id: 5,
-    title: 'Detailed learning materials',
+    title: 'Толық оқу материалдары',
     content:
-      'Classes that provide very detailed material in term of making UI UX Design starting team making low and hight quality, system designs, using data layout and make prototypes and testing.',
+      'Миссдананың IELTS-ке дайындық курсы өте жақсы! Қызықты сабақтардан бастап практикалық материалдардың көптігіне дейін барлық аспектілер студенттерге емтихандарда жақсы нәтиже көрсетуге көмектесу үшін жасалған.',
     user: {
       id: 1,
       name: 'Ashley Graham',
-      professional: 'Back-End Developer',
+      professional: 'IELTS 7.5',
       photo: '5.jpg',
     },
   },
